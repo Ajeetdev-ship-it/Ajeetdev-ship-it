@@ -1,3 +1,4 @@
+![logo](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Ajeet yadav</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
@@ -6,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetdev-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetdev-ship-it" /> </p>
 
 - 🌱 I’m currently learning **React & Node.js**
+
+- I am learning programing languages and web development and likes to code in C, C++,Java,Python and JavaScript.**
 
 - 📫 How to reach me **ajeetyadavdeveloper.06@gmail.com**
 
