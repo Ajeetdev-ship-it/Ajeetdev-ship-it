@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Ajeet yadav</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/19730654/file/original-23a9368d5081d24e5277c67b35b68059.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetdev-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetdev-ship-it" /> </p>
 
 - 🌱 I’m currently learning **React & Node.js**
 
-- I am learning programing languages and web development and likes to code in C, C++,Java,Python and JavaScript.**
+- I am learning programing languages and web development and
+-  likes to code in C, C++,Java,Python and JavaScript.**
 
 - 📫 How to reach me **ajeetyadavdeveloper.06@gmail.com**
 
